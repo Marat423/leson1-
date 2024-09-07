@@ -1,5 +1,5 @@
 example = 'библиотека'
-print(example[1])# Первая буква
+print(example[0])# Первая буква
 print(example[-1]) # Последняя буква
 print(example[5:10]) # Последние 5 символов строки
 print(example[::-1]) # Слово наоборот
